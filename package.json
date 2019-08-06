@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/foundersandcoders/pg-walkthrough/#readme",
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "env2": "^2.2.2",
+    "nodemon": "^1.11.0",
+    "pg": "^7.12.0"
   }
 }
